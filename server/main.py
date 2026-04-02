@@ -66,3 +66,5 @@ async def analyze_resume(file: UploadFile = File(...)):
 if __name__ == "__main__":
     # Running uvicorn directly for convenience
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
+
+# Backend update 1
