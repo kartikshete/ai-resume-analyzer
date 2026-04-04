@@ -105,3 +105,5 @@ class ResumeAnalyzer:
         if 'education' in text.lower(): val += 5
         
         return min(val, 98) # Nobody is perfect!
+
+# Backend update 4
