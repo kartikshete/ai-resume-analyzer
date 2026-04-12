@@ -93,3 +93,4 @@ The project is divided into two main components:
 *Helping candidates build better resumes, one byte at a time.*
 
 <!-- Documentation update 0 -->
+<!-- Documentation update 13 -->
