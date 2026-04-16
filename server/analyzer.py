@@ -110,3 +110,4 @@ class ResumeAnalyzer:
 # Backend update 9
 # Backend update 15
 # Backend update 17
+# Backend update 18
